@@ -1,0 +1,68 @@
+body {
+  background: #232323;
+  margin: 0%;
+  font-family: sans-serif;
+}
+.sequre {
+  width: 30%;
+  background-color: yellow;
+  padding-bottom: 30%;
+  float: left;
+  margin: 1.66%;
+  border-radius: 15%;
+  transition: background 0.6s;
+}
+.container {
+  width: 600px;
+  margin: 20px auto;
+}
+h1 {
+  line-height: 1.1;
+  text-align: center;
+  font-weight: normal;
+  color: white;
+  background-color: steelblue;
+  margin: 0%;
+  text-transform: uppercase;
+  padding: 20px 0;
+  transition: background 0.6s;
+}
+span {
+  color: white;
+}
+.selected {
+  background-color: steelblue;
+  color: white;
+}
+#stripe {
+  background-color: white;
+  height: 30px;
+  text-align: center;
+  color: black;
+}
+#colorDisplay {
+  font-size: 200%;
+}
+button {
+  border: none;
+  background: none;
+  text-transform: uppercase;
+  height: 100%;
+  font-weight: 700;
+  color: steelblue;
+  letter-spacing: 1px;
+  font-size: inherit;
+  transition: all 0.3s;
+  outline: none;
+}
+#msg {
+  display: inline-block;
+  width: 20%;
+  color: steelblue;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+button:hover {
+  background-color: steelblue;
+  color: white;
+}
