@@ -1,6 +1,4 @@
-alert(
-  "Khamma Ghani sa 🙏 , This Is Boy Dipanshu Saraswat welcome you to this game"
-);
+
 var numsequre = 6;
 var colors = genraterandomcolors(numsequre);
 var msg = document.querySelector("#msg");
